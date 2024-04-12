@@ -1,0 +1,10 @@
+{
+  "filmes": [
+    {
+      "id": "filme-01",
+      "nome": "Teste",
+      "ano": 2004,
+      "genero": "romance"
+    }
+  ]
+}
